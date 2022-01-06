@@ -2,4 +2,21 @@
     <string name="app_name">TREMP</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_we_re_tremp">Hi, we\'re TREMP!</string>
+    <string name="slogan"><![CDATA[We make getting around your city \n affordable, easy & efficient]]></string>
+    <string name="phone_field">Enter phone number</string>
+    <string name="password_field">Enter password</string>
+    <string name="remember_me">remember me</string>
+    <string name="forget_password">forget password ?</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">enter last name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="forgot_password_details">provide your account\'s email for which you want to reset your password</string>
+    <string name="forget_npassword">Forget\nPassword</string>
+    <string name="sign_up">Sign up</string>
 </resources>

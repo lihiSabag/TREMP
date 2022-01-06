@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/andika</item>
+        <item>@font/bad_script</item>
+        <item>@font/donegal_one</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/muli_black</item>
+        <item>@font/muli_extralight</item>
+        <item>@font/muli_light</item>
+    </array>
+</resources>
